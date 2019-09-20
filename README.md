@@ -6,3 +6,7 @@ of input symbols and may require the model to learn the long term context or dep
 between symbols in the input sequence. In this project we will discover how we can develop
 LSTM recurrent neural network models for sequence classification problems in Python using
 the Keras deep learning library.</p>
+
+
+<p>tutorial source: Deep Learning With Python, Develop Deep Learning Models On Theano And TensorFlow Using
+Keras, Jason Brownlee</p>
